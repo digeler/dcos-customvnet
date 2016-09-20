@@ -4,4 +4,3 @@
 </a>
 
 
-https://raw.githubusercontent.com/digeler/dcos-customvnet/master/azuredeploy.json
